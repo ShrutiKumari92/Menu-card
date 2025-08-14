@@ -1,0 +1,17 @@
+menu ={
+    "pizza":210,
+    "sandwich": 90 ,
+    "noodles": 100,
+    "menchurian": 60,
+    "salad":45,
+    "burger":60,
+    "samosa":15,
+    "momo":40,
+    "panir chili":120,
+    "pav bhaji":80,
+    "baby corn":120,
+    "hakka noodles":120,
+    "macroni":100,
+    "coffee":50,
+    "cold drink":40,
+}
